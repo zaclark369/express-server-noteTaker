@@ -1,0 +1,24 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "jest": "^27.4.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaclark369/express-server-noteTaker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zaclark369/express-server-noteTaker/issues"
+  },
+  "homepage": "https://github.com/zaclark369/express-server-noteTaker#readme"
+}
