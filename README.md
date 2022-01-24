@@ -19,7 +19,7 @@
 
   ## Installation
   ___
-  visit the deployed app at: [Note Taker Homepage]()
+  visit the deployed app at: [Note Taker Homepage](https://git.heroku.com/blooming-beach-73449.git)
 
   ## Usage
   ___
@@ -27,8 +27,8 @@
 
   ## Video
   ___
- No video yet available. Here are some images:
-![landing page](./public/assets/images/screenprint1.png)
+ Here are some images:
+[![landing page](./public/assets/images/screenprint1.png)](https://watch.screencastify.com/v/4UCQuJhyTqaAwCOdNUe3 "Demo Video")
 ![notes page](./public/assets/images/screenprint2.png)
 
 
