@@ -3,7 +3,7 @@
 
   ## Description:
   ___
-  
+  An application that takes notes, and can add new ones or delete. A demonstration of server calls.
 
   ## Table of Contents:
   ___
