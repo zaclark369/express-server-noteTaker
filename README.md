@@ -19,7 +19,7 @@
 
   ## Installation
   ___
-  visit the deployed app at: [Note Taker Homepage](https://git.heroku.com/blooming-beach-73449.git)
+  Please visit the deployed app at: [Note Taker Homepage](https://git.heroku.com/blooming-beach-73449.git)
 
   ## Usage
   ___
